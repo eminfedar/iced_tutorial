@@ -1,4 +1,4 @@
-# Layouts
+# Styles
 
 Styles are used to change the appearance of widgets.
 They are used to customize the UI of the application.
