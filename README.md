@@ -24,7 +24,8 @@ For older Iced versions, please refer to the following branches:
 
 - [Setting Up](./tutorial/setting_up.md)
 - [First App - Hello World!](./tutorial/first_app.md)
-- [Explanation of Sandbox Trait](./tutorial/explanation_of_sandbox_trait.md)
+- [Explanation of the App Structure](./tutorial/explanation_of_app_structure.md)
+- [Application Lifecycle](./tutorial/application_lifecycle.md)
 - [Adding Widgets](./tutorial/adding_widgets.md)
 - [Changing Displaying Content](./tutorial/changing_displaying_content.md)
 - [Widgets](./tutorial/widgets.md)
