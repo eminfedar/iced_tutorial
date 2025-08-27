@@ -77,7 +77,7 @@ impl MyApp {
                 .on_input(Message::Update5)
                 .on_paste(Message::Paste5),
             text(self.info5.as_str()),
-            text_input("Press enter", self.text6.as_str())
+            text_input("Press Enter", self.text6.as_str())
                 .on_input(Message::Update6)
                 .on_submit(Message::Submit6),
             text(self.info6.as_str()),
