@@ -14,7 +14,7 @@ In practical terms, considering our application below:
 
 - The `view` is rendering a [text](https://docs.rs/iced/0.13.1/iced/widget/text/index.html) and a [button](https://docs.rs/iced/0.13.1/iced/widget/button/index.html) in a [column](https://docs.rs/iced/0.13.1/iced/widget/macro.column.html) layout
 - The user clicks the button, which listens for an event (`on_press`)
-- The buttons dispatches the message (`Message::ButtonPressed`)
+- The button dispatches the message (`Message::ButtonPressed`)
 - The message is matched on the `update` function, and the counter is incremented by 1
 - Repeat...
 
